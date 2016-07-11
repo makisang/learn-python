@@ -1,1 +1,1 @@
-# learn-python
+Tickets about python.
